@@ -6,6 +6,11 @@
 	background-size: cover;
 }
 
+.watch-card_logo {
+	width: 5em;
+	margin-top: $reg-margin-top;
+}
+
 .watch-card-form_input {
 	@extend %watch-card-input_fields;
 }
