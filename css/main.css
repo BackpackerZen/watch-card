@@ -45,8 +45,22 @@ table {
   border-collapse: collapse;
   border-spacing: 0; }
 
+html {
+  font-family: 'Open Sans', sans-serif; }
+
 .watch-card {
   color: #fff; }
+  .watch-card h2 {
+    font-size: 1.5em;
+    font-weight: 600;
+    letter-spacing: 0.1em; }
+  .watch-card p {
+    font-size: 0.8em; }
+  .watch-card input {
+    font-size: 1.1em; }
+  .watch-card a {
+    color: #fff;
+    text-decoration: none; }
 
 *::-webkit-input-placeholder {
   color: #fff; }
