@@ -1,4 +1,7 @@
 .watch-card {
 	@include card-project ($height: 32em, $width: 20em, $radius: 10px);
-	text-align: center
+	text-align: center;
+	background: url(../images/background.jpg);
+	background-position: center center;
+	background-size: cover;
 }
