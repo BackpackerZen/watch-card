@@ -122,4 +122,23 @@ p a:focus {
   width: 5em;
   margin-top: 3em; }
 
+.watch-card_headline {
+  margin-top: 2.5em; }
+
+.watch-card_description {
+  margin-top: 1em; }
+
+.watch-card-form {
+  margin-top: 1em; }
+
+.watch-card-form_input {
+  margin-top: 1em; }
+
+.watch-card-form_button {
+  margin-top: 1em; }
+
+.watch-card_signIn {
+  margin-top: 1.5em;
+  display: block; }
+
 /*# sourceMappingURL=main.css.map */
