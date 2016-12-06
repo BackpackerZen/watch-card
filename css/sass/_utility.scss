@@ -16,16 +16,12 @@
 }
 
 .watch-card_description {
-	margin-top: $reg-margin-top;;
-}
-
-.watch-card-form {
-	margin-top: $reg-margin-top;;
+	margin-top: $reg-margin-top;
 }
 
 .watch-card-form_input {
 	@extend %watch-card-input_fields;
-	margin-top: $reg-margin-top;;
+	margin-top: $reg-margin-top;
 }
 
 .watch-card-form_button {
