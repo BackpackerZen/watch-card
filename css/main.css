@@ -99,7 +99,7 @@ p a:focus {
   background-color: #cef;
   text-shadow: 0.05em 0 0 #cef, -0.05em 0 0 #cef, 0 0.05em 0 #cef, 0 -0.05em 0 #cef, 0.1em 0 0 #cef, -0.1em 0 0 #cef, 0 0.1em 0 #cef, 0 -0.1em 0 #cef; }
 
-.watch-card-form_input {
+.watch-card-form_input, .watch-card-form_button {
   background: none;
   color: #fff;
   width: 14em;
@@ -133,7 +133,9 @@ p a:focus {
   margin-top: 1em; }
 
 .watch-card-form_button {
-  margin-top: 1em; }
+  margin-top: 1em;
+  border: none;
+  background: linear-gradient(to right, #51879F, #809EA0); }
 
 .watch-card_signIn {
   margin-top: 1.5em;
