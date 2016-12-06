@@ -1,0 +1,17 @@
+* {
+	box-sizing: border-box;
+}
+
+p {
+	font-size: 1rem;
+	line-height: 1.5;
+}
+
+p a:focus {
+	outline: none;
+	background-color: #cef;
+	text-shadow: 0.05em 0 0 #cef, -0.05em 0 0 #cef,
+	0 0.05em 0 #cef, 0 -0.05em 0 #cef,
+	0.1em 0 0 #cef, -0.1em 0 0 #cef,
+	0 0.1em 0 #cef, 0 -0.1em 0 #cef;
+}
